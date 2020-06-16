@@ -1,9 +1,9 @@
 # Servlets_JSP
-Exercício desenvolvido na matéria de Desenvolvimento Web II
+## Exercício desenvolvido na matéria de Desenvolvimento Web II
 
-## Exercício 1 - Servlets/JSP Básico
+### Exercício 1 - Servlets/JSP Básico
 
-### Crie um projeto contendo uma Servlet e um JSP. 
+#### Crie um projeto contendo uma Servlet e um JSP. 
 
 A Servlet deve apresentar uma página Web contendo as informações do SEPT, que podem ser obtidas pelo seguinte endereço:
 
